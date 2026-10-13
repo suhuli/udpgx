@@ -1,0 +1,72 @@
+[
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 205,
+    "trial": 1
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 306,
+    "trial": 2
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 187,
+    "trial": 3
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 205,
+    "trial": 4
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 186,
+    "trial": 5
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 206,
+    "trial": 6
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 204,
+    "trial": 7
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 206,
+    "trial": 8
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 206,
+    "trial": 9
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 204,
+    "trial": 10
+  }
+]

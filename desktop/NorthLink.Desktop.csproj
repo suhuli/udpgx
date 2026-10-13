@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>NorthLink</AssemblyName>
+    <RootNamespace>NorthLink</RootNamespace>
+    <ApplicationIcon>northlink.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Version>0.1.0</Version>
+    <RuntimeFrameworkVersion>8.0.31</RuntimeFrameworkVersion>
+    <!-- WPF owns process DPI; WinForms is used only for NotifyIcon. -->
+    <NoWarn>$(NoWarn);WFAC010</NoWarn>
+    <Company>NorthLink</Company>
+    <Description>Redis signaling · ICE traversal · QUIC peer-to-peer port mapping</Description>
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup><Resource Include="northlink.ico" /></ItemGroup>
+</Project>

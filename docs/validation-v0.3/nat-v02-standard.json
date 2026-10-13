@@ -1,0 +1,23 @@
+[
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 6626,
+    "trial": 1
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 6619,
+    "trial": 2
+  },
+  {
+    "binaryEcho": true,
+    "connected": true,
+    "path": "UDP 打洞直连",
+    "setupMs": 6615,
+    "trial": 3
+  }
+]

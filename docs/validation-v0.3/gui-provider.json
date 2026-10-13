@@ -1,0 +1,14 @@
+{
+  "architecture": "amd64",
+  "configCapture": true,
+  "configLoaded": true,
+  "configSaved": true,
+  "hideRestore": true,
+  "role": "provider",
+  "stunFirst": "stun:stun.hitv.com:3478",
+  "tabCount": 4,
+  "tabsSwitch": true,
+  "trayAvailable": true,
+  "version": "0.3.0",
+  "windowCreated": true
+}

@@ -1,0 +1,28 @@
+# Build products and local tools
+build/
+obj/
+bin/
+.cache/
+.venv/
+__pycache__/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.user
+# Private deployment data
+.private/
+core/internal/config/builtin_private.go
+.env
+.env.*
+!.env.example
+*.key
+*.pfx
+config.json
+operation-error.txt
+*.log
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
